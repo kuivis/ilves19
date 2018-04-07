@@ -41,7 +41,7 @@ if ( ! empty( $title ) )
 echo $args['before_title'] . $title . $args['after_title'];
 
 // This is where you run the code and display the output
-echo __( 'Hello, World!', 'wpb_widget_domain' );
+echo __( 'Hello, Worldäerjwäejr!', 'wpb_widget_domain' );
 echo $args['after_widget'];
 }
 
